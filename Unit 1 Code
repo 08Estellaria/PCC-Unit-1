@@ -1,0 +1,61 @@
+#Unit 1
+print("Estellaria Joy")
+print("Estellaria\nBaby Blue\nHazeli")
+#My program will print out the day of the week
+print("Monday!")
+'''Monday will see a cloudy and wet start with rain,
+this soon clearing to leave sunny spells
+and areas of cloud. '''
+
+age = 16
+print(age)
+
+pets = 0
+print(pets)
+
+idol = "Hazeli"
+print(idol)
+
+colour = "Blue and Pink"
+print(colour)
+
+topping1 = "pineapple"
+topping2 = "cheese"
+print("Sukie's favourite pizza toppings are",topping1,"and",topping2)
+
+stars = 21839247758367846857683
+757523444
+print("I think there are",stars,"stars")
+
+age = 16
+month = "March"
+print("I am",age,"years old and my birthday month is",month,)
+
+movie_name = "Barbie Movie"
+actress = "Margot Robbie"
+year = 2023
+
+print(f"did you know that {movie_name} stars {actress} and was released in {year}?")
+
+print("Monday\nTuesday\nWednesday\nThursday\nFriday\nSaturday\nSunday")
+
+colour = "pink"
+animal = "tiger"
+
+print("Have you seen that",animal,"its",colour,"!")
+
+number = 3
+adjective = "fluffy"
+animal = "cats"
+
+print(f"Look at those {number} {adjective} {animal}")
+
+
+
+
+
+
+
+
+
+
